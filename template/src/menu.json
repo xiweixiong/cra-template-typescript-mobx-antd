@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "首页",
+    "path": "/home",
+    "pid": 0
+  },
+  {
+    "id": 2,
+    "name": "系统管理",
+    "path": "/system",
+    "pid": 0
+  },
+  {
+    "id": 11,
+    "name": "工作台",
+    "path": "/home/workbench/main",
+    "pid": 1
+  },
+  {
+    "id": 21,
+    "name": "账号管理",
+    "path": "/system/account/list",
+    "pid": 2
+  },
+  {
+    "id": 22,
+    "name": "角色管理",
+    "path": "/system/role/list",
+    "pid": 2
+  }
+]

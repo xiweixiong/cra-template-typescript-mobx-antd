@@ -1,0 +1,2 @@
+**/*.js
+src/services/**/api.d.ts
